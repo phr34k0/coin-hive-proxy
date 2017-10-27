@@ -54,4 +54,4 @@ wss.on('connection', function connection(ws) {
   }
 });
 
-console.log('WebSocket server up and running\n');alkerjtlkdjfg
+console.log('WebSocket server up and running\n');

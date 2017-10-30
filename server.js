@@ -1,5 +1,5 @@
 const WebSocket = require('ws');
-const wss = new WebSocket.Server({ port: 1289 });
+const wss = new WebSocket.Server({ port: 8080 });
 var servers = [
   "wss://jesus.goodolddownloads.com/01",
   "wss://jesus.goodolddownloads.com/02",
